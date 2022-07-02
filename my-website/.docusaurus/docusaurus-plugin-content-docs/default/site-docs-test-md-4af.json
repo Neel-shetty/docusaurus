@@ -1,0 +1,25 @@
+{
+  "unversionedId": "my-doc-id",
+  "id": "my-doc-id",
+  "title": "My document title",
+  "description": "My document description",
+  "source": "@site/docs/test.md",
+  "sourceDirName": ".",
+  "slug": "/my-custom-url",
+  "permalink": "/docs/my-custom-url",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "my-doc-id",
+    "title": "My document title",
+    "description": "My document description",
+    "slug": "/my-custom-url"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

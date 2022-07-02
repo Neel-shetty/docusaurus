@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/greetings",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-02-28-greetings.md",
+  "source": "@site/blog/2021-02-28-greetings.md",
+  "title": "Greetings!",
+  "description": "Docusaurus logo",
+  "date": "2021-02-28T00:00:00.000Z",
+  "formattedDate": "February 28, 2021",
+  "tags": [
+    {
+      "label": "greetings",
+      "permalink": "/blog/tags/greetings"
+    }
+  ],
+  "readingTime": 0.525,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Neel Narayan Shetty",
+      "title": "noob c++ kid",
+      "url": "https://github.com/Neel-shetty",
+      "image_url": "https://avatars.githubusercontent.com/u/71568285?s=96&v=4",
+      "imageURL": "https://avatars.githubusercontent.com/u/71568285?s=96&v=4"
+    },
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "image_url": "https://github.com/slorber.png",
+      "imageURL": "https://github.com/slorber.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "greetings",
+    "title": "Greetings!",
+    "authors": [
+      {
+        "name": "Neel Narayan Shetty",
+        "title": "noob c++ kid",
+        "url": "https://github.com/Neel-shetty",
+        "image_url": "https://avatars.githubusercontent.com/u/71568285?s=96&v=4",
+        "imageURL": "https://avatars.githubusercontent.com/u/71568285?s=96&v=4"
+      },
+      {
+        "name": "Sébastien Lorber",
+        "title": "Docusaurus maintainer",
+        "url": "https://sebastienlorber.com",
+        "image_url": "https://github.com/slorber.png",
+        "imageURL": "https://github.com/slorber.png"
+      }
+    ],
+    "tags": [
+      "greetings"
+    ]
+  },
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  },
+  "nextItem": {
+    "title": "Long Blog Post",
+    "permalink": "/blog/long-blog-post"
+  }
+}
